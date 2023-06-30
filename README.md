@@ -21,3 +21,9 @@ https://github.com/awesome-yasin/supercalculator#11-mortagehome-loan-calculator
 
 Every Programmer should know
 https://github.com/kamranahmedse/every-programmer-should-know
+
+H1B VISA SEARCH
+https://www.myvisajobs.com/H1B-Visa/SearchLCA.aspx?O1=Employer&O2=JobTitle&VS=H-1B&IN=51&Y=2023&PN=3
+
+2017 TOP EMPLOYERS FOR H1B
+https://www.ice.gov/doclib/sevis/pdf/data_Top200_EmployersSTEM_OPT_Students2017.pdf
