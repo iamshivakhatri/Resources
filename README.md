@@ -4,6 +4,9 @@ These are resources for me to learn new things.
 Machine Learning| Youtube videos
 https://github.com/dair-ai/ML-YouTube-Courses#caltech-cs156-learning-from-data
 
+Machine Learning Resources
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+
 Build Your own technology(blockchain, bot, server, os etcc)
 
 https://github.com/codecrafters-io/build-your-own-x
