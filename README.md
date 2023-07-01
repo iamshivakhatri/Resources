@@ -1,6 +1,9 @@
 # Resources
 These are resources for me to learn new things.
 
+Inspirations:
+https://decodecraft.com/CreateBlog/
+
 Machine Learning| Youtube videos
 https://github.com/dair-ai/ML-YouTube-Courses#caltech-cs156-learning-from-data
 
