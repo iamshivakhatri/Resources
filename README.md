@@ -36,3 +36,6 @@ https://www.myvisajobs.com/H1B-Visa/SearchLCA.aspx?O1=Employer&O2=JobTitle&VS=H-
 
 2017 TOP EMPLOYERS FOR H1B
 https://www.ice.gov/doclib/sevis/pdf/data_Top200_EmployersSTEM_OPT_Students2017.pdf
+
+Hackernews
+https://news.ycombinator.com/
