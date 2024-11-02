@@ -1,6 +1,9 @@
 # Resources
 These are resources for me to learn new things.
 
+Useful Shadcn components
+https://awesome-shadcn-ui.vercel.app/
+
 Inspirations:
 https://decodecraft.com/CreateBlog/
 
