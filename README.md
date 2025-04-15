@@ -1,5 +1,5 @@
 # Resources
-These are resources for me to learn new things.
+These are resources.
 
 Useful Shadcn components
 https://awesome-shadcn-ui.vercel.app/
